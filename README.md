@@ -1,5 +1,4 @@
-# AI Predictive Maintenance System (RUL Prediction)
-# 🚀 AI Predictive Maintenance System
+# 🚀 AI Predictive Maintenance System(RUL Prediction)
 
 LSTM 기반 항공기 엔진 RUL 예측 및 실시간 대시보드 시스템
 
