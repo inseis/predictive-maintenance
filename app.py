@@ -129,7 +129,7 @@ ax1.axvline(cycle_select,linestyle="--")
 ax1.set_xlabel("Cycle")
 ax1.set_ylabel(sensor)
 
-ax1.set_title("센서 변화 추이")
+ax1.set_title("Sensor Trend")
 
 st.pyplot(fig1)
 
@@ -145,7 +145,7 @@ ax2.axvline(cycle_select,linestyle="--")
 ax2.set_xlabel("Cycle")
 ax2.set_ylabel("RUL")
 
-ax2.set_title("실제 잔여 수명 (RUL)")
+ax2.set_title("True RUL (Remaining Useful Life)")
 
 st.pyplot(fig2)
 
